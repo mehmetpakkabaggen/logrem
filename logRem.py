@@ -21,6 +21,9 @@ dir_path = "C:\\ANC2010\\Data\\LoggingManager\\" # Directory of log files: C:\AN
 # If you want to change the directory, change the path in the line above
 
 #by default, the script will run once a day. If you want to change this, change the time.sleep() function in the while loop at the bottom of the script(it is in seconds)
+#it also works as a delay so if you put in one second it will check every second and if you put in 60 it will check every minute.
+#you get the point :)
+
 
 # Color codes
 
